@@ -1,10 +1,6 @@
-Sure, here is a template for a README file that includes command parameter usage:
+# Downscaling of weather prediction
 
----
-
-# Project Name
-
-Brief description of what the project does.
+The conventional approach to forecasting weather in a region involves utilizing a Global Climate Model (GCM), which generates forecast grids typically at a resolution ranging between 25 and 100 kilometers. However, this resolution is insufficient for achieving accurate regional forecasts. In this project we use a difusion model to achieve better regional predicton.
 
 ## Installation
 
